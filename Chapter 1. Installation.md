@@ -1,7 +1,3 @@
-# 在此处输入标题
-
-标签（空格分隔）： english
-
 # **Chapter 1. Installation**
 ## **System requirements**
 **Minimal configuration**
@@ -30,7 +26,7 @@ PhotoScan allegedly is able to utilize processing power of any OpenCL enabled de
 
 The table below lists currently supported devices (on Windows platform only). We will pay particular attention to possible problems with PhotoScan running on these devices.
 
-####**Table 1.1. Supported Desktop GPUs on Windows platform**
+**Table 1.1. Supported Desktop GPUs on Windows platform**
 
 |  NVIDIA  |  AMD |
 |  -----   |:----:|
@@ -50,14 +46,18 @@ Although PhotoScan is supposed to be able to utilize other GPU models and on oth
 + OpenCL acceleration can be enabled using OpenCL tab in the Preferences dialog box.
 + Using OpenCL acceleration with mobile video chips is not recommended because of the low performance of mobile GPUs.
 ## **Installation procedure**
+
 ### **Installing PhotoScan on Microsoft Windows**
 To install PhotoScan on Microsoft Windows simply run the downloaded msi file and follow the instructions.
+
 ### **Installing PhotoScan on Mac OS X**
 Open the downloaded dmg image and drag PhotoScan application to the desired location on your hard drive.
+
 ### **Installing PhotoScan on Debian/Ubuntu**
 Unpack the downloaded archive with a program distribution kit to the desired location on your hard drive.
 
 Start PhotoScan by running photoscan.sh script from the program folder.
+
 ### **Restrictions of the Demo mode**
 Once PhotoScan is downloaded and installed on your computer you can run it either in the Demo mode or in the full function mode. At every run until you enter a serial number it will show a registration box offering two options: (1) use PhotoScan in the Demo mode or (2) enter the serial number to confirm the purchase. The first choice is set by default, so if you are still exploring PhotoScan click the Continue button and PhotoScan will start in the Demo mode.
 

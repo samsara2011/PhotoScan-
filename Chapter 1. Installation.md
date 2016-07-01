@@ -45,6 +45,7 @@ Although PhotoScan is supposed to be able to utilize other GPU models and on oth
 ### **Note**
 + OpenCL acceleration can be enabled using OpenCL tab in the Preferences dialog box.
 + Using OpenCL acceleration with mobile video chips is not recommended because of the low performance of mobile GPUs.
+
 ## **Installation procedure**
 
 ### **Installing PhotoScan on Microsoft Windows**
